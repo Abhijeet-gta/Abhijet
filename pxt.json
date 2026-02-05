@@ -1,5 +1,6 @@
 {
     "name": "Sachsone$2013",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
